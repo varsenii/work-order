@@ -1,0 +1,7 @@
+Qwen fine-tuning
+
+- Dataset preparation
+    - Choose the appropriate system message for dataset generation model
+    - Build the dataset
+- Training
+- Quantization
