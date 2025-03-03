@@ -2,3 +2,5 @@ ollama==0.4.5
 pypdf==5.1.0
 PyMuPDF==1.25.1
 pydantic>=2.10.5
+datasets==3.2.0
+scikit-learn==1.6.1

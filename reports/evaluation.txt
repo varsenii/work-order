@@ -1,0 +1,2 @@
+|Model                                                  |EMA    |
+|qwen2.5:0.5b-instruct                                  |0.16   |
